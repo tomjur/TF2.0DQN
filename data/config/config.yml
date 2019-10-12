@@ -1,0 +1,3 @@
+general:
+#  scenario: 'CartPole-v0'
+  scenario: 'Acrobot-v1'
